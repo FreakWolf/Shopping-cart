@@ -1,0 +1,35 @@
+[
+    {
+      "id": 1,
+      "name": "Burnikk",
+      "price": "$29.99",
+      "image": "product1.png",
+      "description": "Product 1 description",
+      "subtle": "Sexbomb"
+    },
+    {
+      "id": 2,
+      "name": "Kibal Batal",
+      "price": "$29.99",
+      "image": "product1.png",
+      "description": "Product 1 description",
+      "subtle": "Kibal Black"
+    },
+    {
+      "id": 3,
+      "name": "Very Nice",
+      "price": "$29.99",
+      "image": "product1.png",
+      "description": "Product 1 description",
+      "subtle": "Salt maalat"
+    },
+    {
+      "id": 4,
+      "name": "Buldit",
+      "price": "$29.99",
+      "image": "product1.png",
+      "description": "Product 1 description",
+      "subtle": "Salt maalat"
+    }
+  ]
+  
